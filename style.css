@@ -18,3 +18,26 @@ ul{
     align-items: center;
     font-size: 15px;
 }
+
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+.left-header{
+    width: 50%;
+    background: green;
+}
+
+.header{
+    width: 100%;
+    display: flex;
+}
+
+.right-header {
+    width: 50%;
+    background: blue;
+}
+.left-header img{
+    width: 50%;
+}
